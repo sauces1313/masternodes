@@ -9,11 +9,11 @@ If this script helped you in any way, please contribute some feedback. Never for
 **Have fun, this is crypto after all!**
 
 Feel free to use my reflink to signup and receive a bonus w/ vultr:
-<a href="https://www.vultr.com/?ref=6903922"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
+<a href="https://www.vultr.com/?ref=8710047"><img src="https://www.vultr.com/media/banners/banner_468x60.png" width="468" height="60"></a>
 
 ## Supported masternode projects
 
-The ever growing list of supported projects is now maintained at [https://nodemaster-vps.com/supported-masternode-projects/](https://nodemaster-vps.com/supported-masternode-projects/).
+The ever growing list of supported projects is now maintained at ~~[https://nodemaster-vps.com/supported-masternode-projects/](https://nodemaster-vps.com/supported-masternode-projects/).~~ SERVER NOT FOUND
 
 ---
 
