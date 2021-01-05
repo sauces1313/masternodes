@@ -171,25 +171,3 @@ If you want to check the status of your masternode, the best way is currently ru
   "relayfee": 0.00010000,
   "errors": ""
 }
-```
-
-
-# Issues and Questions
-
-Please open github issue in case of questions or issues. I might not be able to reply immediately, but i do usually within a couple of days at worst.
-
-If my scripts work for you, please send some crypto my way here:
-
-**Have fun, this is crypto after all!**
-
-    onate here:
-
-<a href="https://gitcoin.co/tip/send/2/">
-    <img src='https://gitcoin.co/static/v2/images/promo_buttons/slice_01.png' width=267px height=52px />
-</a>
-
-or send BTC to:
-
-```
-BTC  33ENWZ9RCYBG7nv6ac8KxBUSuQX64Hx3x3
-```
