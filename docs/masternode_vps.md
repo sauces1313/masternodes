@@ -20,8 +20,8 @@ If you are not already aware, visit the project site and join the slack. The web
 
 I will use vultr for my instructions, but in practice and with a bit of tuning any hoster that gives you multiple free IPv6 addresses. Register / login with vultr.
 
-Feel free to use my reflink to signup and receive a bonus w/ vultr:
-<a href="https://www.vultr.com/?ref=6903922"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
+Feel free to use my reflink to signup and receive a bonus w/ vultr:  
+<a href="https://www.vultr.com/?ref=8710047"><img src="https://www.vultr.com/media/banners/banner_468x60.png" width="468" height="60"></a>
 
 It's also great that you can use Bitcoin to pay!
 
