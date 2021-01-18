@@ -1,0 +1,7 @@
+#!/bin/bash
+
+./autogen.sh
+./contrib/install_db4.sh `pwd`
+./configure --without-gui --enable-cxx --disable-shared --with-pic --prefix=$BDB_PREFIX CXXFLAGS="--param ggc-min-expand=1 --param ggc-min-heapsize=32768"
+make
+make install
