@@ -1,10 +1,10 @@
 #!/bin/bash
 
-chmod u+x ./autogen.sh && ./autogen.sh
 chmod u+x ./contrib/install_db4.sh && ./contrib/install_db4.sh `pwd`
 chmod u+x ./share/genbuild.sh
 chmod u+x ./depends/config.guess
 chmod u+x ./depends/config.sub
+chmod u+x ./autogen.sh && ./autogen.sh
 export BDB_PREFIX='/root/masternodes/code/mrv/db4'
 ./configure --without-gui --enable-cxx --disable-shared --disable-tests --with-pic BDB_LIBS="-L${BDB_PREFIX}/lib -ldb_cxx-4.8" BDB_CFLAGS="-I${BDB_PREFIX}/include" CXXFLAGS="--param ggc-min-expand=1 --param ggc-min-heapsize=131072"
 make -j$(nproc --all)
