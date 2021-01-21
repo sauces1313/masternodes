@@ -1,0 +1,10 @@
+#!/bin/sh
+
+#./autogen.sh
+#./configure
+#make
+
+#mkdir config/npw
+#wget https://github.com/NPW-Project/NewPowerCoin/releases/download/v1.0.1.0/npw-1.0.1-x86_64-linux-gnu.tar.gz
+#tar -xzvf npw-1.0.1-x86_64-linux-gnu.tar.gz
+cp /root/masternodes/config/npw/npw-1.0.1/bin/* /usr/local/bin/
